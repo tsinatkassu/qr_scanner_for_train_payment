@@ -1,0 +1,39 @@
+ {
+  "project_info": {
+    "project_number": "331031668401",
+    "project_id": "trainpay-d0fa0",
+    "storage_bucket": "trainpay-d0fa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331031668401:android:bbdaf50696650c91e9a490",
+        "android_client_info": {
+          "package_name": "com.example.qr_scanner_for_train_payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331031668401-4tk7m40eumea9a85sfasmrt8803rnuri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx0WFDs4of7Z7tisqMHq4uU6Na04WJtvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331031668401-4tk7m40eumea9a85sfasmrt8803rnuri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
